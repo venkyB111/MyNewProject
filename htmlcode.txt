@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Practising week 1 content</title>
+        <meta charset="UTF-8">
+        <meta name="keywords" content="HTML CSS">
+        <meta name="Practise" content="Practising all tags">
+        <!-- <meta http-equiv="refresh" content="5"> -->
+        <style>
+            form{
+                background-image: url(https://tse3.mm.bing.net/th?id=OIP.icO-3fPINumwRDACDZzzKwHaEo&pid=Api&P=0);
+            }
+            div{
+                background-image: url(http://pavbca.com/walldb/original/a/3/0/727391.jpg);
+                back
+            }
+         h1{
+            color: red;
+            text-align: center;
+         } 
+         h2{
+            color: red;
+            text-align: center;
+         } 
+         marquee{
+            color: rgb(191, 18, 226);
+            font-size: xx-large;
+         }
+         table{
+            border-color: chocolate;
+            text-align: center;
+            table-layout: inherit;
+         }
+         img{
+            border: darkgoldenrod;
+         }
+        </style>
+    </head>
+    <body>
+        <form>
+             <h1><i>Badsha Restaurant</i></h1>
+             <h2><em>Welcome all to your's Favourite Spot</em></h2>
+             <h2><em>Enjoy Your Hot Biryani</em></h2> 
+        </form>
+         <div>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href=""><b>Sea Buckthorn Juice</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href=""><b>Jamun Juice</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href=""><b>Aayu Berry Juice</b> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href=""><b>Mango Juice</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href=""><b>Badam Milk</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href=""><b>Lemon Juice</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href=" "><b>Ornage Juice</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href=" "><b>Water Melon</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+         </div>
+         <div>
+            <table border="1px" align="center"><br/><br/><br/>
+                <thead>
+                    <th>S.No</th>
+                    <th>Special item</th>
+                    <th>Images</th>
+                    <th>Price</th>
+                    <th>Couple offer</th>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>Prans</td>
+                        <td><img src="https://i2.wp.com/vegro.in/wp-content/uploads/2020/07/prawn-chilli.jpg?fit=680%2C510"  style="width:400px;height:200px ;"></td>
+                        <td>199/-</td>
+                        <td>15%</td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>Grilled Chicken Escalope with Fresh Salsa</td>
+                        <td><img src="https://i.ndtvimg.com/i/2015-12/grilled-chicken-625_625x350_71451368942.jpg" style="width:400px;height:200px ;"></td>
+                        <td>299/-</td>
+                        <td>11%</td>
+                    </tr><tr>
+                        <td>3</td>
+                        <td>Mutton Korma</td>
+                        <td><img src="https://i.ndtvimg.com/i/2015-03/badam-korma_625x350_41426244081.jpg" style="width:400px;height:200px ;"></td>
+                        <td>299/-</td>
+                        <td>11%</td>
+                    </tr><tr>
+                        <td>4</td>
+                        <td>Pina Colada Pork Ribs</td>
+                        <td><img src="https://i.ndtvimg.com/i/2015-02/pork_625x350_81424765044.jpg" style="width:400px;height:200px ;"></td>
+                        <td>749/-</td>
+                        <td>17%</td>
+                    </tr><tr>
+                        <td>5</td>
+                        <td>Hyderabadi Keema</td>
+                        <td><img src="https://c.ndtvimg.com/2019-12/o1l745m8_keema-matar_625x300_11_December_19.jpg" style="width:400px;height:200px ;"></td>
+                        <td>350/-</td>
+                        <td>9%</td>
+                    </tr><tr>
+                        <td>6</td>
+                        <td>Tandoori Lamb Chops</td>
+                         <td><img src="https://i.ndtvimg.com/i/2016-06/lamb-chops_625x350_51466768845.jpg" style="width:400px;height:200px ;"></td>
+                        <td>599/-</td>
+                        <td>16%</td>
+                    </tr><tr>
+                        <td>7</td>
+                        <td>Curried Parmesan Fish Fingers</td>
+                        <td><img src="https://i.ndtvimg.com/i/2016-03/fish-finger_625x350_51458388088.jpg" style="width:400px;height:200px ;"></td>
+                        <td>311/-</td>
+                        <td>12%</td>
+                    </tr>
+                </tbody>
+            </table>
+         </div>
+         <div>
+           <i><img src="https://c.tenor.com/BEjePFnKuFAAAAAi/tkthao219-bubududu.gif">&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="https://i.pinimg.com/originals/a8/40/e4/a840e498a4a27f5ab3f09efe876614af.gif"></i> 
+         </div>
+         
+    </body>
+</html>
